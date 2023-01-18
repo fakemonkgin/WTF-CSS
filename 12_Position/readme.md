@@ -101,7 +101,7 @@ position 属性被指定为从下面的值列表中选择的单个关键字。
   color: white;
 }
 
-#three {
+#two {
   position: absolute;
   top: 20px;
   left: 20px;
